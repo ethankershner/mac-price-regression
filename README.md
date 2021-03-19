@@ -1,4 +1,4 @@
-## Ebay Mac Price Regression Analysis
+# Ebay Mac Price Regression Analysis
 
 Multiple regression analysis predicting prices of mac minis auctioned on eBay.
 
